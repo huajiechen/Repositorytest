@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/huajiechen/Repositorytest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
